@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on OSU DRAIL Cassie
-- 🌱 I’m currently learning how to use q-learning
 - 📫 How to reach me: mudrye@oregonstate.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am obsessed with hammerhead sharks
